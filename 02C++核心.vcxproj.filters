@@ -75,5 +75,35 @@
     <ClCompile Include="20类和对象-构造函数的分类及调用.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="21类和对象-拷贝构造函数的调用时机.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="22类和对象-构造函数调用时机.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="23类和对象-深拷贝和浅拷贝.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24类和对象-初始化列表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25类对象作为类成员.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="26类和对象-静态成员.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="27类和对象-成员变量和成员函数分开存储.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="28类和对象-this指针的用途.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="29空指针调用成员函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="30const修饰成员函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
